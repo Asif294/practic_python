@@ -6,10 +6,10 @@
 #     c=a+b
 #     print(c)
 # add_number(3,5)
-##paramiter 
-# def sum(num_1,num_2=0):
-#     result =num_1+num_2
-#     return result
+#paramiter 
+def sum(num_1,num_2=0):
+    result =num_1+num_2
+    return result
 # total =sum(40,20)
 # print(total)
 # srri="this is "
